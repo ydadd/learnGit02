@@ -4,3 +4,5 @@ Git has a mutable index called stage.
 Git tracks changes.
 creating a new branch is fast and easy.
 Git is for everyone.
+creating a new branch is fast and easy.
+Git is for everyone.
